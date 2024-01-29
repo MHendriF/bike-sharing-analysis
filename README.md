@@ -4,12 +4,12 @@ This project is a simple simple analysis using bike sharing dataset.
 ## How To Install
 1. Install Python
 
-    Download Python in here [Official](https://www.python.org/downloads/) or [Microsoft Store](https://apps.microsoft.com/detail/9NRWMJP3717K?hl=en-US&gl=US)
+    Download Python [Official](https://www.python.org/downloads/) or [Microsoft Store](https://apps.microsoft.com/detail/9NRWMJP3717K?hl=en-US&gl=US) then install it
 
 2. Clone repository 
 
    ```shell
-   git clone git@github.com:MHendriF/Belajar-Analisis-Data-dengan-Python.git
+   git clone git@github.com:MHendriF/bike-sharing-analysis.git
    ```
 
 3. Install the necessary packages by running the following commands:
