@@ -5,7 +5,7 @@ import streamlit as st
 sns.set(style='dark')
 
 # Load Data
-all_df = pd.read_csv("https://raw.githubusercontent.com/MHendriF/bike-sharing-analysis/main/Submission/dashboard/main_data.csv")
+all_df = pd.read_csv("https://raw.githubusercontent.com/MHendriF/bike-sharing-analysis/main/dashboard/main_data.csv")
 
 st.set_page_config(page_title="Bike-Sharing Dashboard",
                    page_icon="bar_chart:",
@@ -73,7 +73,7 @@ max_date = all_df["date"].max()
 
 with st.sidebar:
     # Menambahkan logo perusahaan
-    st.image("https://raw.githubusercontent.com/MHendriF/bike-sharing-analysis/main/Submission/assets/bycicle.png")
+    st.image("https://raw.githubusercontent.com/MHendriF/bike-sharing-analysis/main/assets/bycicle.png")
     
     # Mengambil start_date & end_date dari date_input
     start_date, end_date = st.date_input(
