@@ -1,5 +1,5 @@
 # Bike-Sharing Analysis
-This project is a simple simple analysis using bike sharing dataset.
+This project is a simple data analysis using bike sharing dataset.
 
 ## How To Install
 1. Install Python
